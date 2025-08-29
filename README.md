@@ -32,10 +32,6 @@ Hi! I'm Nicollas from Rio de Janeiro. Graduated in Analysis and Systems Developm
 
 </div>
 
-
-<br/>
-<br/>
-
 ##
 
 <div align="center">
