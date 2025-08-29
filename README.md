@@ -4,21 +4,25 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
+  
 </div>
 
-<div align="center">
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickGarcia44&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickGarcia44&layout=donut&theme=radical)](https://github.com/NickGarcia44/github-readme-stats)
-
-</div>
+<br/>
+<br/>
 
 ##
 
 <div align="center">
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NickGarcia44&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickGarcia44&layout=donut&theme=radical"/>
+
+</div>
+
+<div align="center">
+
   <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NickGarcia44&theme=radical" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=NickGarcia44&theme=radical" alt="GitHub Streak" />
   </a>
 
 </div>
