@@ -41,14 +41,6 @@ Hi! I'm Nicollas from Rio de Janeiro. Graduated in Analysis and Systems Developm
 
 </div>
 
-<div align="center">
-
-  <a href="https://git.io/streak-stats">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=NickGarcia44&theme=radical" alt="GitHub Streak" />
-  </a>
-
-</div>
-
 ##   
 
 <div align="center">
