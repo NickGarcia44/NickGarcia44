@@ -36,8 +36,7 @@ Hi! I'm Nicollas from Rio de Janeiro. Graduated in Analysis and Systems Developm
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NickGarcia44&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickGarcia44&layout=donut&theme=radical"/>
+
 
 </div>
 
@@ -52,5 +51,5 @@ Hi! I'm Nicollas from Rio de Janeiro. Graduated in Analysis and Systems Developm
 </div>
 
 <div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FNickGarcia44&s=35&c=ff14eb&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits">
+
 </div>
